@@ -239,8 +239,7 @@ Transparency and Accountability: Software engineers should strive to be transpar
 Ethical Review and Oversight: Organizations can implement ethical review processes and oversight mechanisms to assess the ethical implications of software projects and ensure compliance with ethical standards and regulatory requirements.
 
 For example:
-The development of facial recognition technology raises ethical concerns about privacy, surveillance, and bias. Software engineers working on facial recognition systems must consider the ethical implications of their algorithms, including the potential for misidentification or discrimination against certain groups (Ward & Rogerson:2004). By implementing safeguards such as bias detection and mitigation techniques, transparency in algorithmic decision-making, and adherence to privacy regulations, software engineers can mitigate these ethical risks and promote responsible use of facial recognition technology.
-
+The development of facial recognition technology raises ethical concerns about privacy, surveillance, and bias. Software engineers working on facial recognition systems must consider the ethical implications of their algorithms, including the potential for misidentification or discrimination against certain groups (Ward &and Rogerson:2004). By implementing safeguards such as bias detection and mitigation techniques, transparency in algorithmic decision-making, and adherence to privacy regulations, software engineers can mitigate these ethical risks and promote responsible use of facial recognition technology.
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
